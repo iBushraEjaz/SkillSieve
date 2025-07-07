@@ -22,4 +22,4 @@
 - **spaCy** (NLP)
 - **PyMuPDF** (PDF text extraction)
 - **Bootstrap 5** (frontend styling)
-![Overview image](Templates/im.jpg)
+![Overview image](Templates/im.png)
